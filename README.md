@@ -56,5 +56,5 @@ $ python coTTS.py "sentence"
 The text is passed as an argument when running the script. The model is loaded and passed together with the string to 🐸Coqui TTS. It then generates an audio file in the wav format that is played with playsound. After this, the audio file is deleted. 
 
 #### Notes
-❌ TTS does not work in python3.10
+❌ TTS does not work in python3.10</br>
 🔢 The model in the code is number 23 - Jenny.
